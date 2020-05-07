@@ -16,7 +16,7 @@ NOTE: Once you've completed a project please include the source files!
 
 ## Issue Template:
 
-[Click here](https://github.com/Internautsorg/techopanti-design/issues/new?template=issue_template.md) to create issue with default template
+[Click here](https://github.com/Internautsorg/technopanti-design/issues/new?template=issue_template.md) to create issue with default template
 
 ```
 ## Goal: 
